@@ -1,4 +1,4 @@
-# 自用Quantumult X懒人配置
+# 自用Quantumult X懒人配置备份
 
 ### 配置来源于各个论坛及帖子:heart_eyes: 
 
